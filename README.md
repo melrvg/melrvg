@@ -2,10 +2,10 @@
 
 ###### About Melina
 
- - Software Engineering grad student at PUCRS university; :desktop_computer:
- - EBAC student;
- - Experience programing with Python, JavaScript and Java;
- - Fluent in English and Portuguese, intermediate comunication skills in French;
+ - Software Engineering grad student at PUCRS university :books:;
+ - EBAC student :books:;
+ - Experience programing with Python, JavaScript and Java :computer:;
+ - Fluent in English and Portuguese, intermediate comunication skills in French
  - Extra experiences: HTML, CSS, Office software and Hardware knowledge;
  - Proud trans woman :transgender_flag:
 
