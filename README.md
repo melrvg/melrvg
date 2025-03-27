@@ -2,12 +2,12 @@
 
 ###### About Melina
 
- - Software Engineering grad student at PUCRS university :books:;
- - EBAC student :books:;
- - Experience programing with Python, JavaScript and Java :computer:;
+ - Software Engineering grad student at PUCRS university;
+ - EBAC student;
+ - Experience programing with Python, JavaScript and Java;
  - Fluent in English and Portuguese, intermediate comunication skills in French
  - Extra experiences: HTML, CSS, Office software and Hardware knowledge;
- - Proud trans woman :transgender_flag:
+ - Proud trans woman :transgender_flag:;
 
 ### Details
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melrvg)](https://github.com/anuraghazra/github-readme-stats)
