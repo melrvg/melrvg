@@ -4,7 +4,7 @@
 Software Engineering student
 
 ### Details
-[![Anurag's GitHub stats](httpsgithub-readme-stats.vercel.app/api?username=melrvg&show_icons=true&theme=dark)](httpsgithub.comanuraghazragithub-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melrvg)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projects
 
