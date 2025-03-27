@@ -2,7 +2,7 @@
 
 ###### About Melina
 
- - Software Engineering grad student at PUCRS university;
+ - Software Engineering grad student at PUCRS university; :desktop_computer:
  - EBAC student;
  - Experience programing with Python, JavaScript and Java;
  - Fluent in English and Portuguese, intermediate comunication skills in French;
