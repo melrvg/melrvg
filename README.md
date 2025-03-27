@@ -9,7 +9,7 @@
  - Extra experiences: HTML, CSS, Office software and Hardware knowledge;
  - Proud trans woman :transgender_flag:;
 
-### Details
+### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melrvg)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
@@ -18,6 +18,6 @@
 
 ### Social Media
 
-
+<a href="www.linkedin.com/in/melina-veloso-463aaa356"></a>
 
 ### New Projects coming soon!
