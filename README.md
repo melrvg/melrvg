@@ -24,4 +24,4 @@
   </a>
 </div>
 
-### New Projects coming soon!
+### New JS Projects coming soon!
