@@ -10,11 +10,11 @@
  - Proud trans woman :transgender_flag:;
 
 ### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melrvg)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melrvg&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melrvg&size_weight=0.5&count_weight=0.5) 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=melrvg&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ### Social Media
 
